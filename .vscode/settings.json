@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "circular_buffer.h": "c",
+        "resistor_color.h": "c",
+        "pythagorean_triplet.h": "c",
+        "clock.h": "c",
+        "robot_simulator.h": "c"
+    }
+}
